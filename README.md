@@ -4,9 +4,9 @@ I'm Harsha Nikhar !!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshanikhar/)
 
-- 📚 I’m currently Grad Student at Carnegie Mellon University persuing MS
-- 🔭 I’m currently looking at Internship for Summer 2023 in Software Engineering roles
-- 💬 Ask me about Software Engineering, Data Structures, Java, Agile Methodologies 
+- 📚 Master of Science in Computer Science from Carnegie Mellon University, Pittsburgh.
+- 🔭 I’m currently looking at full time software engineer roles. 
+- 💬 Ask me about Artificial Intelligence, open source LLMs, Machine Learning Libraries, Software Engineering, Data Structures, Java, React JS, Front End stack. 
 
 - 😄 Pronouns: She/her
-- ⚡ Assistant Chief Operating Officer for Google Developer Student Club at CMU
+- ⚡ Lead for Google Women Techmakers North America.
