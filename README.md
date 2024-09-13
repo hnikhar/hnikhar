@@ -5,7 +5,7 @@ I'm Harsha Nikhar !!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshanikhar/)
 
 - 📚 Master of Science in Computer Science from Carnegie Mellon University, Pittsburgh.
-- 🔭 I’m currently looking at full time software engineer roles. 
+- 🔭 Senior Software Engineer 
 - 💬 Ask me about Artificial Intelligence, open source LLMs, Machine Learning Libraries, Software Engineering, Data Structures, Java, React JS, Front End stack. 
 
 - 😄 Pronouns: She/her
